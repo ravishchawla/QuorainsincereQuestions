@@ -36,7 +36,7 @@ The main code for this project is divided into 5 notebooks. Each notebook is pro
 * `Model Training - Basic Model.ipynb` - In this notebook, a basic model with LSTM layers is ued for training and obtaining results on the model.
 * `Model Training - Different Models.ipynb` - In this notebook, different model and training configurations are used to see how results from the basic model can be improved upon.
 
-The code and results are also posted on Medium as a [blog post](https://medium.com/@ravishchawla/how-much-do-you-spend-at-starbucks-4f142138924a).
+The code and results are also posted on Medium as a [blog post](https://medium.com/ml2vec/learning-insincerity-of-quora-questions-using-lstm-networks-f866ea51957e).
 
 Data for the project is not included, and can be downloaded directly from Kaggle [here](https://www.kaggle.com/c/quora-insincere-questions-classification/overview). To properly run the notebooks, they must be kept in the `data` directory as files `data/train.csv` and `data/test.csv`. 
 
@@ -50,7 +50,7 @@ Adam Optimizer with a 0.003 Learning Rate and no weight decay
 Trained on 5 Epochs
 
 
-More detailed findings can be found at the post available [here](https://medium.com/@ravishchawla/how-much-do-you-spend-at-starbucks-4f142138924a).
+More detailed findings can be found at the post available [here](https://medium.com/ml2vec/learning-insincerity-of-quora-questions-using-lstm-networks-f866ea51957e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

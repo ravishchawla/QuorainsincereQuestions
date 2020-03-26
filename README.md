@@ -1,5 +1,5 @@
 # QuorainsincereQuestions
-Quora insincere Question classification using RNN Models (Kaggle dataset)
+Quora insincere Question classification using RNN Models (Kaggle dataset
 
 ### Table of Contents
 
@@ -45,8 +45,11 @@ Data for the project is not included, and can be downloaded directly from Kaggle
 The final model trained obtained a score of `0.771` on the training F1 metric and a `0.601` on Validation F1. The model with the most improvement had the following configuration:
 
 Neural Model with a 128-dim LSTM Layer, Attention Layer, and 2 Fully Connected Layers
+
 300 Dimensional Fast Text word Embeddings
+
 Adam Optimizer with a 0.003 Learning Rate and no weight decay
+
 Trained on 5 Epochs
 
 
